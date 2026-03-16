@@ -4,6 +4,7 @@ x64/
 x86/
 
 .vs/
+*.vcxproj.user
 
 # Temp compiler files
 *.obj
